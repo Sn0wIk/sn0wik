@@ -1,6 +1,3 @@
-import tkinter as tk
-from tkinter import simpledialog, messagebox
-from random import sample
 
 abcd = simpledialog.askinteger("Авторизуйтесь", "Введите  ваш номер счета:")
 abc = "C:\Программа 1\[" + str(abcd) + "]"
